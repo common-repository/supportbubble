@@ -1,0 +1,368 @@
+# Copyright (C) 2021 SupportBubble
+# This file is distributed under the same license as the SupportBubble package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportBubble\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: options.php:14
+msgid "Are You Sure?"
+msgstr ""
+
+#: options.php:15
+msgid "Save Changes"
+msgstr ""
+
+#: options.php:16
+msgid "An error occurred, please reload the page"
+msgstr ""
+
+#: options.php:17
+msgid "Changes could not be updated, Some errors were found"
+msgstr ""
+
+#: options.php:18
+msgid "Changes successfully updated"
+msgstr ""
+
+#: options.php:19
+msgid "Add Item"
+msgstr ""
+
+#: options.php:20
+msgid "Remove"
+msgstr ""
+
+#: options.php:21, options.php:519
+msgid "Import"
+msgstr ""
+
+#: options.php:22
+msgid "Download Data"
+msgstr ""
+
+#: options.php:23
+msgid "This will override your current settings. Are You Sure?"
+msgstr ""
+
+#: options.php:24
+msgid "Image URL"
+msgstr ""
+
+#: options.php:25
+msgid "From Library"
+msgstr ""
+
+#: options.php:26
+msgid "Select"
+msgstr ""
+
+#: options.php:27
+msgid "Search"
+msgstr ""
+
+#: options.php:28
+msgid "Select file"
+msgstr ""
+
+#: options.php:29, options.php:70
+msgid "Size"
+msgstr ""
+
+#: options.php:30
+msgid "Line Height"
+msgstr ""
+
+#: options.php:31
+msgid "Left"
+msgstr ""
+
+#: options.php:32
+msgid "Right"
+msgstr ""
+
+#: options.php:33
+msgid "Center"
+msgstr ""
+
+#: options.php:34
+msgid "Justify"
+msgstr ""
+
+#: options.php:35
+msgid "Letter Spacing"
+msgstr ""
+
+#: options.php:36
+msgid "Word Spacing"
+msgstr ""
+
+#: options.php:37
+msgid "Underline"
+msgstr ""
+
+#: options.php:38
+msgid "Italic"
+msgstr ""
+
+#: options.php:39
+msgid "Uppercase"
+msgstr ""
+
+#: options.php:49, options.php:54
+msgid "Bubble"
+msgstr ""
+
+#: options.php:62, options.php:201
+msgid "Icon"
+msgstr ""
+
+#: options.php:76
+msgid "Small"
+msgstr ""
+
+#: options.php:80
+msgid "Medium"
+msgstr ""
+
+#: options.php:84
+msgid "Large"
+msgstr ""
+
+#: options.php:92
+msgid "Background"
+msgstr ""
+
+#: options.php:100
+msgid "Text Color"
+msgstr ""
+
+#: options.php:108
+msgid "Behaviour"
+msgstr ""
+
+#: options.php:114
+msgid "Open menu"
+msgstr ""
+
+#: options.php:118
+msgid "Launch first item"
+msgstr ""
+
+#: options.php:126
+msgid "Automatically Expand"
+msgstr ""
+
+#: options.php:134
+msgid "Prompt Messages"
+msgstr ""
+
+#: options.php:146
+msgid "Message"
+msgstr ""
+
+#: options.php:147
+msgid "New Message"
+msgstr ""
+
+#: options.php:149
+msgid "Message..."
+msgstr ""
+
+#: options.php:163, options.php:168
+msgid "Menu"
+msgstr ""
+
+#: options.php:176
+msgid "Items"
+msgstr ""
+
+#: options.php:189, options.php:417, options.php:430
+msgid "Title"
+msgstr ""
+
+#: options.php:190
+msgid "New Item"
+msgstr ""
+
+#: options.php:195
+msgid "Subtitle"
+msgstr ""
+
+#: options.php:196
+msgid "The subtitle goes here"
+msgstr ""
+
+#: options.php:207
+msgid "Color"
+msgstr ""
+
+#: options.php:213, options.php:436
+msgid "Type"
+msgstr ""
+
+#: options.php:218
+msgid "Contact Form"
+msgstr ""
+
+#: options.php:222
+msgid "Outbound Link"
+msgstr ""
+
+#: options.php:226, options.php:363
+msgid "Messenger"
+msgstr ""
+
+#: options.php:230
+msgid "WhatsApp"
+msgstr ""
+
+#: options.php:234, options.php:344
+msgid "Email"
+msgstr ""
+
+#: options.php:242
+msgid "URL"
+msgstr ""
+
+#: options.php:250
+msgid "Welcome Message"
+msgstr ""
+
+#: options.php:257
+msgid "User Avatar"
+msgstr ""
+
+#: options.php:264
+msgid "User Name"
+msgstr ""
+
+#: options.php:271, options.php:292
+msgid "Caption"
+msgstr ""
+
+#: options.php:273, options.php:294, options.php:365
+msgid "Typically replies within a day"
+msgstr ""
+
+#: options.php:278
+msgid "Button Icon"
+msgstr ""
+
+#: options.php:285
+msgid "Button Text"
+msgstr ""
+
+#: options.php:287, options.php:375
+msgid "Start Chat"
+msgstr ""
+
+#: options.php:299, options.php:465
+msgid "Phone Number"
+msgstr ""
+
+#: options.php:307
+msgid "Messenger URL"
+msgstr ""
+
+#: options.php:315
+msgid "Headline"
+msgstr ""
+
+#: options.php:322
+msgid "Description"
+msgstr ""
+
+#: options.php:329
+msgid "Form"
+msgstr ""
+
+#: options.php:336
+msgid "Success Message"
+msgstr ""
+
+#: options.php:353
+msgid "Audience Targeting"
+msgstr ""
+
+#: options.php:369
+msgid "Contact us on Facebook"
+msgstr ""
+
+#: options.php:373
+msgid ""
+"Hi there 👋 <br> \n"
+"How can I help you?"
+msgstr ""
+
+#: options.php:390, options.php:395, options.php:403
+msgid "Forms"
+msgstr ""
+
+#: options.php:418
+msgid "New Form"
+msgstr ""
+
+#: options.php:423
+msgid "Fields"
+msgstr ""
+
+#: options.php:425
+msgid "This will remove the field and all the submission data associated with it. Are you sure?"
+msgstr ""
+
+#: options.php:431
+msgid "New Field"
+msgstr ""
+
+#: options.php:441
+msgid "Single Line Text"
+msgstr ""
+
+#: options.php:445
+msgid "Paragraph Text"
+msgstr ""
+
+#: options.php:449
+msgid "Number"
+msgstr ""
+
+#: options.php:453
+msgid "Date"
+msgstr ""
+
+#: options.php:457
+msgid "Time"
+msgstr ""
+
+#: options.php:461
+msgid "Email Address"
+msgstr ""
+
+#: options.php:474
+msgid "Show in admin?"
+msgstr ""
+
+#: options.php:480
+msgid "Forward to Email?"
+msgstr ""
+
+#: options.php:499, options.php:504
+msgid "Advanced"
+msgstr ""
+
+#: options.php:512
+msgid "Export"
+msgstr ""
+
+#: plugin.php:114
+msgid "Support Bubble"
+msgstr ""

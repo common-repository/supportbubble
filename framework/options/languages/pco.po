@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-29T12:28:59+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: pco\n"
+
+#: translation.php:3
+msgid "Are You Sure?"
+msgstr ""
+
+#: translation.php:4
+msgid "Save Changes"
+msgstr ""
+
+#: translation.php:5
+msgid "An error occurred, please reload the page"
+msgstr ""
+
+#: translation.php:6
+msgid "Changes could not be updated, Some errors were found"
+msgstr ""
+
+#: translation.php:7
+msgid "Changes successfully updated"
+msgstr ""
+
+#: translation.php:8
+msgid "Add Item"
+msgstr ""
+
+#: translation.php:9
+msgid "Remove"
+msgstr ""
+
+#: translation.php:10
+msgid "Import"
+msgstr ""
+
+#: translation.php:11
+msgid "Download Data"
+msgstr ""
+
+#: translation.php:12
+msgid "This will override your current settings. Are You Sure?"
+msgstr ""
+
+#: translation.php:13
+msgid "Image URL"
+msgstr ""
+
+#: translation.php:14
+msgid "From Library"
+msgstr ""
+
+#: translation.php:15
+msgid "Select"
+msgstr ""
+
+#: translation.php:16
+msgid "Search"
+msgstr ""
+
+#: translation.php:17
+msgid "Select file"
+msgstr ""
+
+#: translation.php:18
+msgid "Size"
+msgstr ""
+
+#: translation.php:19
+msgid "Line Height"
+msgstr ""
+
+#: translation.php:20
+msgid "Left"
+msgstr ""
+
+#: translation.php:21
+msgid "Right"
+msgstr ""
+
+#: translation.php:22
+msgid "Center"
+msgstr ""
+
+#: translation.php:23
+msgid "Justify"
+msgstr ""
+
+#: translation.php:24
+msgid "Letter Spacing"
+msgstr ""
+
+#: translation.php:25
+msgid "Word Spacing"
+msgstr ""
+
+#: translation.php:26
+msgid "Underline"
+msgstr ""
+
+#: translation.php:27
+msgid "Italic"
+msgstr ""
+
+#: translation.php:28
+msgid "Uppercase"
+msgstr ""

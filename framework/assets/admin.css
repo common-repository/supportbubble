@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap');
+
+header.fs-app-header {
+    width: 800px;
+    margin: auto;
+}
+
+/* .fs-page-title{
+    display: none;
+}
+
+.fs-plugin-logo {
+    display: none !important;
+} */
+
+.fs-secure-notice {
+    display: none;
+}
+
+.cf-plugin-logo {
+    margin: 40px auto !important;
+    float: left;
+}
+
+.fs-notice {
+    max-width: 1000px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.cf-plugin-logo svg {
+    width: 34px;
+    float: left;
+    color: #4c47ff;
+}
+
+.cf-plugin-logo h2 {
+    float: left;
+    margin: 0px 12px;
+    line-height: 34px;
+    font-weight: 900;
+    letter-spacing: .5px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.fs-section .cf-title {
+    float: left;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.fs-section .nav-tab-wrapper {
+    border: none !important;
+    padding: 7px 7px !important;
+    text-align: center !important;
+    width: fit-content;
+    margin: 40px auto 45px !important;
+    background: #dbdee0;
+    border-radius: 5px;
+}
+
+.fs-section .nav-tab-wrapper a {
+    padding: 0px 18px;
+    line-height: 32px;
+    border: none;
+    margin: 0px 0px;
+    font-family: 'Nunito', sans-serif;
+    color: #555555;
+    background: transparent;
+    outline: none;
+    font-weight: 800;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+a.nav-tab.fs-tab:focus {
+    box-shadow: none !important;
+}
+
+.fs-full-size-wrapper {
+    margin: 40px 0 -65px -10px;
+}
+
+.fs-section .nav-tab-wrapper a svg {
+    margin-right: 5px;
+    font-weight: 100;
+    width: 13px;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -2px;
+}
+
+.fs-section .nav-tab-wrapper a:first-child {
+    border-radius: 5px 0px 0px 5px;
+}
+
+body[class*=pricing] .nav-tab-wrapper{
+    display: none;
+}
+
+.fs-section .nav-tab-wrapper a:last-child {
+    border-radius: 0px 5px 5px 0px;
+}
+
+.fs-section .nav-tab-wrapper .nav-tab-active {
+    background: rgb(255 255 255);
+    border-radius: 15px !important;
+    color: #444;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.03);
+}
+
+a.nav-tab.fs-tab.pricing {
+    padding-right: 11px;
+}
+
+.fs-section .nav-tab-wrapper  .fs-ajax-spinner {
+    display: none;
+    /* width: 11px;
+    height: 14px;
+    background-repeat: no-repeat; */
+}
+
+span.fs-submenu-item svg {
+    display: none;
+}
+
+#fs_account {
+    width: fit-content;
+    margin: auto;
+}
+
+#fs_account_details {
+    margin: -12px;
+    width: calc(100% + 24px);
+}
